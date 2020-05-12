@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Yulia Dogrusoz 
 
-You can use the [editor on GitHub](https://github.com/julia-sod/julia-sod.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![My photo](./IMG_0040.JPG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Currently a student at HYF
 
-### Markdown
+## About Me
+I’m an enthusiastic person who’s driven by new ideas. I have natural organizational skills which help me to inspire and mobilize people for achieving goals. I’m a quick learner who’s open minded and ready to embrace and adapt the change when it comes in my way.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
+* **Interpreter  Russian - English**   
+Chimarus Russia – 2014-2016  
+_Providing translation service during business meetings._
 
-```markdown
-Syntax highlighted code block
+* **Graphic Designer Freelance**  
+Vitgraf Lipetsk Russia –2000 - 2016  
+_Design of vector graphics on softwares like Corel Draw and Adobe Illustrator.  
+Using software like Adobe Photoshop for posters and banners._
 
-# Header 1
-## Header 2
-### Header 3
+* **Entrepreneur**  
+Lipetsk Russia – 2009- 2017  
+_Started a clothing retail shop and worked as a sales person._
 
-- Bulleted
-- List
+* **Teacher of English**  
+Lipetsk Russia– 2006-2007  
+_Worked as a teacher in elementary school and middle school._
 
-1. Numbered
-2. List
+## Education
+Lipetsk Pedagogical University – Bachelor 2006
 
-**Bold** and _Italic_ and `Code` text
+## Skills
+>Language   
+>Graphic applications   
+>Teaching  
+>Sales & Marketing
 
-[Link](url) and ![Image](src)
-```
+## A Little More About Me
+#### My other interests and hobbies are:
+>Psychology   
+>Literature (I’m a co-author of an unpublished book)  
+>Painting  
+>Fitness
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[My GitHub](https://github.com/julia-sod)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julia-sod/julia-sod.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
